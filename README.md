@@ -1,1 +1,1 @@
-# Arch-Install-Script
+# arch-install-script
